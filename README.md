@@ -3,11 +3,11 @@
 ### 🚀 About Me  
 - 👀 **Aspiring Engineer & AI Enthusiast** passionate about emerging technologies.  
 - 🌱 **Currently Learning**: Machine Learning & AI, constantly refining my skills.  
-- 💻 **Tech Stack**: Python, Core Java, MySQL, AI, Machine Learning, Web Technologies (HTML, CSS, JS).  
+- 💻 **Tech Stack**: Python, Core Java, MySQL, NoSQL, MongoDB, AI, Machine Learning, Web Technologies (HTML, CSS, JS).  
 - 🎯 **Proficiency**: Data Science, Data Analytics, and AI-Driven Solutions.  
 - 👯 **Reach me at**: akashgshinde16@gmail.com  
 - 😄 **Pronouns**: He/Him  
-- ⚡ **Fun Fact**: *"Every bug is just a hidden feature waiting to be understood!"*  
+- ⚡ **Fun Fact**: *"Data never lies, but sometimes it just needs a little cleaning to tell the truth!"*  
 
 ---
 
@@ -22,6 +22,8 @@
 
 #### **Databases**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
+![NoSQL](https://img.shields.io/badge/NoSQL-005571?style=for-the-badge&logo=nosql&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
 
 #### **Data Science & AI**  
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-00599C?style=for-the-badge&logo=machine-learning&logoColor=white)  
